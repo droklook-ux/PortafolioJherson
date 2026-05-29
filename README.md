@@ -1,87 +1,61 @@
-﻿<h1 align='center'>⚔️🕯️ Jherson Deiner Micha Espinoza 🕯️⚔️</h1>
-<h3 align='center'>Full Stack Web Developer | Web3 | Bots | Automatización | Dark Fantasy Coder</h3>
+
+# Jherson Deiner Micha Espinoza
+### Full Stack Developer | Web3 | Automation | Remote-Ready
 
 ---
 
-## 🕯️ Sobre mí
-Soy **Full Stack Developer autodidacta**, apasionado por crear aplicaciones modernas, interfaces oscuras con estética dark-fantasy y soluciones técnicas que realmente funcionan.
+## About Me
+Self-taught Full Stack Developer based in Lima, Peru.
+I build modern web applications, REST APIs, Web3 integrations,
+and automation scripts using cutting-edge technologies.
 
-Domino tecnologías modernas como **React, Next.js, Tailwind, Node.js, Python, APIs, Web3, y automatización con scripts personalizados**.
-
-Mi estilo se resume en 3 palabras:  
-**Eficiente. Creativo. Imparable.**
-
----
-
-## ⚡ Tecnologías que manejo
-
-### 🖥️ Frontend
-- HTML, CSS, JavaScript  
-- React, Next.js  
-- Tailwind CSS  
-- UI/UX oscuro y minimalista
-
-### 🔧 Backend
-- Node.js, Express  
-- Python (APIs, automatización, bots)  
-- REST / GraphQL  
-- Autenticación JWT
-
-### 🧪 Bases de Datos
-- MongoDB  
-- PostgreSQL  
-- Firebase
-
-### ⛓️ Blockchain / Web3
-- Web3.js / Ethers.js  
-- Smart Contracts en Solidity  
-- dApps con React
-
-### ⚙️ Otros
-- Git / GitHub  
-- WebScraping  
-- Automatización y bots  
-- Scripts para terminal, APIs y procesos complejos
+Focused on clean code, performance, and real-world solutions.
 
 ---
 
-## 🔥 Proyectos Invocados
+## Tech Stack
 
-### 🧩 Desarrollo de Software
-Aplicaciones completas con backend y base de datos.  
-**Tecnologías:** Node.js, Express, MongoDB, PostgreSQL, JWT, React.
+**Frontend**
+HTML · CSS · JavaScript · TypeScript
+React · Next.js · Tailwind CSS
 
-### 🌐 Páginas Web Modernas
-Sitios optimizados, responsivos, estéticos y con animaciones.  
-**Tecnologías:** HTML, CSS, JS, React, Next.js, Tailwind.
+**Backend**
+Node.js · Express · Python
+REST APIs · GraphQL · JWT Auth
 
-### ⚙️ Scripts Full Stack
-Automatización, manejo de datos, APIs, scraping y control de procesos.  
-**Tecnologías:** Node.js, Python, REST, GraphQL.
+**Databases**
+MongoDB · PostgreSQL · Firebase
 
-### 🤖 Bots Místicos
-Bots personalizados para tareas, comandos y automatizaciones.  
-**Tecnologías:** Node.js, Python, Web3.
+**Blockchain / Web3**
+Solidity · Web3.js · Ethers.js · dApps
 
-### ⛓️ Web3 y Blockchain
-Conexión de wallets, lectura de contratos y dApps funcionales.  
-**Tecnologías:** Solidity, Web3.js, Ethers.js.
+**Other**
+Git · GitHub · Web Scraping
+Automation · Bots · Terminal Scripts
 
 ---
 
-## 🕯️ Estadísticas que revelan mi poder
+## Projects
 
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=drokl00k&show_icons=true&theme=dark&hide_border=true' height='170' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=drokl00k&layout=compact&theme=dark&hide_border=true' height='170' />
-</p>
+### Web Applications
+Full stack apps with authentication, database, and REST API.
+Tech: Node.js · Express · MongoDB · PostgreSQL · React
+
+### Modern Websites
+Responsive, animated, and optimized websites.
+Tech: React · Next.js · Tailwind CSS
+
+### Automation & Bots
+Custom bots and scripts for APIs and data processing.
+Tech: Node.js · Python · REST · GraphQL
+
+### Web3 / Blockchain
+Wallet integration, smart contracts, and functional dApps.
+Tech: Solidity · Web3.js · Ethers.js
 
 ---
 
-## ✉️ Contacto
-📩 **Email:** droklook@gmail.com  
-🌐 **Portafolio:** *(Agregamos el link cuando subas tu web)*
-
----
-
-<h3 align='center'>🕯️ “El conocimiento oscuro es poder. El código es el hechizo.” ⚔️</h3>
+## Contact
+Email: droklook@gmail.com
+Portfolio: [coming soon]
+LinkedIn: linkedin.com/in/jherson-deiner-micha-espinoza-039a50281
